@@ -6,8 +6,9 @@ Medical Image Analysis for Malaria
 
 
 # Results with 3000 dataset
-          **   precision    recall  f1-score   support **
+          
 ```
+                 precision    recall  f1-score   support 
  Parasitized       0.97      0.94      0.95       614
   Uninfected       0.93      0.96      0.95       523
 
